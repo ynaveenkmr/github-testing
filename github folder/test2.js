@@ -4,5 +4,6 @@ function testAdd(fn,x){
 return fn(x)
 }
 var ot = testAdd(add,5);
-console.log(ot);
+console.log(ot); 
+
   </script>
