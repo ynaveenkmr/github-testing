@@ -14,5 +14,5 @@ alert('ok');
    return num1+num1;
  }
 
-/**new function */
+
   </script>
