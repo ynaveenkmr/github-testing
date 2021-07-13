@@ -8,4 +8,6 @@ console.log(ot);
 
 /**Another function example */
  /**Take update one */
+
+alert('ok');
   </script>
