@@ -1,7 +1,8 @@
 <script>
-  var add = add => add+1;
-function testAdd({fn,x}){
+var add = add => add+1;
+function testAdd(fn,x){
 return fn(x)
 }
-console.log(add,5);
+var ot = testAdd(add,5);
+console.log(ot);
   </script>
