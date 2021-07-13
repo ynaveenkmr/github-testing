@@ -6,5 +6,6 @@ return fn(x);
 var ot = testAdd(add,5);
 console.log(ot); 
 
-alert(ot);
+/**Another function example */
+ /**Take update one */
   </script>
