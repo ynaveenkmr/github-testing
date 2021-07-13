@@ -10,4 +10,7 @@ console.log(ot);
  /**Take update one */
 
 alert('ok');
+ function testfun1(num1, num2){
+   return num1+num1;
+ }
   </script>
