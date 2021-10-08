@@ -36,5 +36,5 @@ switch (a) {
     alert( "I don't know such values" );
 }
  
-
+console.log(dateTile)
   </script>
