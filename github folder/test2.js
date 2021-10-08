@@ -37,4 +37,5 @@ switch (a) {
 }
  
 console.log(dateTile)
+console.log(dateTile updated)
   </script>
