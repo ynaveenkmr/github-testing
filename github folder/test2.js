@@ -35,6 +35,6 @@ switch (a) {
   default:
     alert( "I don't know such values" );
 }
- 
+ console.log(test)
 
   </script>
