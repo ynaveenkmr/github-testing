@@ -35,6 +35,8 @@ switch (a) {
   default:
     alert( "I don't know such values" );
 }
- console.log(test)
+ console.log(test for branch)
 
+ 
+console.log(dateTile)
   </script>
